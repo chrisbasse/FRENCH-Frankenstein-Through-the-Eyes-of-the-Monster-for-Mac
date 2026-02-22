@@ -30,6 +30,8 @@ On parle ici d’une époque où macOS en était à la version 7.5, à la toute 
 
 Tout ça… ne nous rajeunit pas ! Pour les plus curieux, vous trouverez des vidéos du jeu sur YouTube.
 
+**Attention : l’image disque est au format HFS et non HFS+.**
+
 Voici la Configuration nécessaire de l'époque :
 
 • 4096k de mémoire libre (5120k pour Power Macintosh)
